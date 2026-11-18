@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Urgência e emergência",
+    "titulo": "Emergência: ligar para o SAMU 192",
+    "palavras_chave": ["samu", "192", "ambulancia", "emergencia", "infarto", "avc", "desmaio", "convulsao"],
+    "resposta": "Se houver risco de morte, ligue 192. O SAMU é gratuito, funciona 24 horas por dia, todos os dias, e atende de telefone fixo ou celular. Exemplos: dor forte no peito, falta de ar intensa, convulsão, suspeita de AVC e acidentes com vítimas.",
+    "documentos": ["Nenhum documento é necessário para ligar"],
+    "onde": "Telefone 192, de qualquer lugar do Brasil",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/saes/samu-192",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 2,
+    "categoria": "Urgência e emergência",
+    "titulo": "Urgência: procurar uma UPA 24 horas",
+    "palavras_chave": ["upa", "pronto atendimento", "febre alta", "fratura", "corte profundo", "vomito", "diarreia"],
+    "resposta": "As UPAs funcionam 24 horas, todos os dias. Procure uma UPA em casos como febre acima de 39 graus, vômitos, diarreia e dores agudas, sangramento, cortes profundos, fraturas e falta de ar intensa. Se houver risco de morte, ligue 192.",
+    "documentos": ["Documento de identificação e Cartão SUS, se tiver (a falta de documento não impede o atendimento de urgência)"],
+    "onde": "UPA mais próxima da sua casa",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/unidades-pronto-atendimento-upa",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 3,
+    "categoria": "Urgência e emergência",
+    "titulo": "Dentista com urgência: dor forte, abscesso ou dente quebrado",
+    "palavras_chave": ["urgencia odontologica", "dentista urgente", "dor de dente forte", "dente quebrado", "abscesso", "dente fraturado"],
+    "resposta": "O atendimento odontológico de urgência é oferecido em alguns serviços da rede, como UPAs, PAs, AMAs e prontos-socorros. Os dias e horários mudam de uma unidade para outra. Confirme o funcionamento antes de ir.",
+    "documentos": ["Documento de identificação", "Cartão SUS, se tiver"],
+    "onde": "Serviços com urgência odontológica listados pela Prefeitura (UPA, PA, AMA e pronto-socorro)",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/atencao_basica/344440",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 4,
+    "categoria": "Atenção básica",
+    "titulo": "Consulta médica e acompanhamento na UBS",
+    "palavras_chave": ["ubs", "posto de saude", "consulta", "clinico geral", "gripe", "resfriado", "pressao alta", "diabetes"],
+    "resposta": "A UBS (posto de saúde) é a porta de entrada do SUS. Procure a UBS para consultas, acompanhamento de doenças como hipertensão e diabetes e problemas de saúde menos graves, como gripe e resfriado.",
+    "documentos": ["Documento de identificação", "Cartão SUS, se tiver"],
+    "onde": "UBS mais próxima da sua casa",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/unidades-basicas-de-saude-ubs",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 5,
+    "categoria": "Atenção básica",
+    "titulo": "Vacinação nas UBS",
+    "palavras_chave": ["vacina", "vacinacao", "carteira de vacina", "carteirinha de vacina", "imunizacao", "dose"],
+    "resposta": "A vacinação é feita nas UBS que funcionam como postos de vacinação, em geral de segunda a sexta-feira. Confirme na unidade o horário e se a vacina que você precisa está disponível.",
+    "documentos": ["Documento de identificação", "Cartão SUS, se tiver", "Carteira de vacinação, se tiver"],
+    "onde": "UBS com sala de vacina",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/vigilancia_em_saude/vacinacao/360678",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 6,
+    "categoria": "Atenção básica",
+    "titulo": "Dentista sem urgência: atendimento odontológico pela UBS",
+    "palavras_chave": ["dentista", "consulta de dentista", "saude bucal", "odontologia", "tratamento dentario", "obturacao", "carie"],
+    "resposta": "Para atendimento odontológico sem urgência, procure uma UBS para receber orientação sobre o acesso à saúde bucal. Nem toda UBS tem dentista, então confirme na unidade. Se for preciso tratamento especializado, a UBS faz o encaminhamento.",
+    "documentos": ["Documento de identificação", "Cartão SUS, se tiver"],
+    "onde": "UBS mais próxima da sua casa",
+    "fonte": "https://www2.prefeitura.sp.gov.br/web/saude/w/ubs-saiba-quando-procurar-este-servi%C3%A7o-na-rede-municipal-5",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 7,
+    "categoria": "Documentos e aplicativos",
+    "titulo": "Fazer o Cartão SUS (Cartão Nacional de Saúde)",
+    "palavras_chave": ["cartao sus", "cartao do sus", "cartao nacional de saude", "cns"],
+    "resposta": "O Cartão SUS identifica quem usa o SUS. Hoje ele é emitido com o nome e o CPF da pessoa e também fica disponível no aplicativo Meu SUS Digital. Quem não tem CPF não deixa de ser atendido no SUS.",
+    "documentos": ["Documento de identificação com foto", "CPF, se tiver", "Comprovante de residência, se a unidade pedir"],
+    "onde": "UBS mais próxima da sua casa ou aplicativo Meu SUS Digital",
+    "fonte": "https://www.gov.br/saude/pt-br/assuntos/noticias/2025/setembro/novo-cartao-nacional-de-saude-com-cpf-como-funciona-na-pratica",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 8,
+    "categoria": "Documentos e aplicativos",
+    "titulo": "Meu SUS Digital: informações de saúde no celular",
+    "palavras_chave": ["meu sus digital", "aplicativo do sus", "app do sus", "conecte sus", "gov br"],
+    "resposta": "O Meu SUS Digital reúne informações de saúde em um só lugar, como vacinas, exames e atendimentos registrados no SUS. O acesso é feito com a conta Gov.br, pelo aplicativo ou pelo site.",
+    "documentos": ["Conta Gov.br", "Celular ou computador com internet"],
+    "onde": "Aplicativo Meu SUS Digital ou site meususdigital.saude.gov.br",
+    "fonte": "https://www.gov.br/saude/pt-br/composicao/seidigi/meususdigital/perguntas-e-respostas/cidadao/1-o-que-e-o",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 9,
+    "categoria": "Saúde mental",
+    "titulo": "Saúde mental: procurar um CAPS ou a UBS",
+    "palavras_chave": ["caps", "saude mental", "psicologo", "psiquiatra", "ansiedade", "depressao", "drogas", "alcool"],
+    "resposta": "Os CAPS atendem saúde mental e uso de álcool e outras drogas. Funcionam em porta aberta: não precisa de agendamento nem de encaminhamento. A UBS também é porta de entrada para saúde mental. Se houver risco à vida, ligue 192.",
+    "documentos": ["Documento de identificação, se tiver", "Cartão SUS, se tiver"],
+    "onde": "CAPS ou UBS mais próximos da sua casa",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/saude_mental_ad/caps",
+    "verificado_em": "2026-11-16"
+  },
+  {
+    "id": 10,
+    "categoria": "Medicamentos",
+    "titulo": "Remédio na Hora: onde encontrar um medicamento na rede municipal",
+    "palavras_chave": ["remedio", "medicamento", "farmacia", "remedio na hora", "pegar remedio"],
+    "resposta": "O Remédio na Hora mostra se o medicamento está disponível nas farmácias das unidades da rede municipal e qual fica mais perto do endereço informado. Digite o nome genérico do medicamento. É possível pesquisar até cinco por vez, sem cadastro.",
+    "documentos": ["Nome genérico do medicamento", "Celular ou computador com internet"],
+    "onde": "Aplicativo e-saúdeSP ou site do Remédio na Hora",
+    "fonte": "https://prefeitura.sp.gov.br/web/saude/w/atencao_basica/207663",
+    "verificado_em": "2026-11-16"
+  }
+]

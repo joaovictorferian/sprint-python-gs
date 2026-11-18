@@ -1,0 +1,87 @@
+[
+  {
+    "data": "2026-11-15T22:52:32",
+    "origem": "pergunta",
+    "pergunta": "preciso tirar o cartão do sus",
+    "id_orientacao": 7,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 222.6
+  },
+  {
+    "data": "2026-11-15T22:52:51",
+    "origem": "categoria",
+    "pergunta": "Consulta médica e acompanhamento na UBS",
+    "id_orientacao": 4,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 13.9
+  },
+  {
+    "data": "2026-11-15T22:53:18",
+    "origem": "categoria",
+    "pergunta": "Dentista sem urgência: atendimento odontológico pela UBS",
+    "id_orientacao": 6,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 27.3
+  },
+  {
+    "data": "2026-11-15T22:53:46",
+    "origem": "categoria",
+    "pergunta": "Emergência: ligar para o SAMU 192",
+    "id_orientacao": 1,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 20.9
+  },
+  {
+    "data": "2026-11-15T22:54:22",
+    "origem": "categoria",
+    "pergunta": "Urgência: procurar uma UPA 24 horas",
+    "id_orientacao": 2,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 36.4
+  },
+  {
+    "data": "2026-11-15T22:55:00",
+    "origem": "categoria",
+    "pergunta": "Dentista com urgência: dor forte, abscesso ou dente quebrado",
+    "id_orientacao": 3,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 37.9
+  },
+  {
+    "data": "2026-11-15T22:58:37",
+    "origem": "categoria",
+    "pergunta": "Saúde mental: procurar um CAPS ou a UBS",
+    "id_orientacao": 9,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 212.7
+  },
+  {
+    "data": "2026-11-15T22:59:11",
+    "origem": "categoria",
+    "pergunta": "Remédio na Hora: onde encontrar um medicamento na rede municipal",
+    "id_orientacao": 10,
+    "encontrou": true,
+    "ajudou": true,
+    "tentativas": 1,
+    "tempo_segundos": 12.8
+  },
+  {
+    "data": "2026-11-15T23:01:05",
+    "origem": "nota",
+    "nota_facilidade": 5
+  }
+]
