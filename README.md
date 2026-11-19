@@ -6,7 +6,9 @@ Assistente de terminal, em Python, que orienta pessoas que usam o SUS na cidade 
 
 | Nome | RM |
 |---|---|
-| [PREENCHER] | [PREENCHER] |
+| Gustavo Melo dos Santos | RM573562 |
+| João Pedro Costenari Silva | RM572260 |
+| João Victor Canello Ferian | RM573295 |
 
 ## Público e problema
 
@@ -93,10 +95,6 @@ A pergunta e as palavras-chave são normalizadas (minúsculas, sem acentos e sem
 
 Cada atendimento é salvo em `data/historico.json` (data, origem, pergunta, id da orientação, se encontrou, se ajudou, tentativas e tempo). Indicadores calculados: resposta encontrada (%), taxa de acerto (%), tempo médio, tentativas por atendimento, facilidade de uso (1 a 5) e lista de dúvidas sem solução. A exportação gera `data/atendimentos.csv`.
 
-## Integrações com outras disciplinas
-
-[PREENCHER: nenhuma, ou descreva]
-
 ## Fontes consultadas
 
 - Ministério da Saúde: [SAMU 192](https://www.gov.br/saude/pt-br/composicao/saes/samu-192)
@@ -112,20 +110,18 @@ Cada atendimento é salvo em `data/historico.json` (data, origem, pergunta, id d
 
 ## Teste com usuários
 
-[PREENCHER depois de testar com pelo menos 3 pessoas de fora da equipe, somando 10 atendimentos ou mais. Não registre nomes nem dados dessas pessoas.]
-
 | Indicador | Resultado |
 |---|---|
-| Atendimentos registrados | [PREENCHER] |
-| Resposta encontrada (%) | [PREENCHER] |
-| Taxa de acerto (%) | [PREENCHER] |
-| Tempo médio para encontrar | [PREENCHER] |
-| Tentativas por atendimento | [PREENCHER] |
-| Facilidade de uso (1 a 5) | [PREENCHER] |
+| Atendimentos registrados | 23 |
+| Resposta encontrada (%) | 82.6% |
+| Taxa de acerto (%) | 82.6% |
+| Tempo médio para encontrar | 48.7 s |
+| Tentativas por atendimento | 1.0 |
+| Facilidade de uso (1 a 5) | 5.0 |
 
-**Dúvidas sem solução:** [PREENCHER]
-
-**Melhoria feita a partir do teste:** [PREENCHER, por exemplo: nova palavra-chave para uma pergunta que não foi encontrada]
+**Dúvidas sem solução:** 
+- como tiro meu passaporte?
+- preciso tirar meu passaporte
 
 ## Limitações
 
@@ -136,4 +132,4 @@ Cada atendimento é salvo em `data/historico.json` (data, origem, pergunta, id d
 
 ## Vídeo técnico
 
-[PREENCHER: link do YouTube, não listado, de 5 a 8 minutos]
+Link: https://youtu.be/V2k5JVkw3IU
